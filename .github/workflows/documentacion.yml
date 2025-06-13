@@ -10,7 +10,7 @@ jobs:
 
     steps:
     - name: Saludar
-      uses: eepagoada/hello-world-action-enrrin@v1.1
+      uses: @eepagoada/hello-world-action-enrrin@v1.1
       with:
         who-to-greet: 'Mona the Octocat'
     
